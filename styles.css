@@ -14,12 +14,18 @@ nav a {
 body {
     font-family: sans-serif;
     margin: 0;
-    background-color: #f4f4f4;
+    background-color: #ff5235;
 }
 
 header {
     background-color: #333;
     color: white;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+
+    color: red;
     padding: 10px;
     text-align: center;
 }
@@ -41,4 +47,3 @@ section {
         align-items: center;    /* Centers the items on the cross-axis */
     }
 }
-
